@@ -1,0 +1,8 @@
+Frank,Bone, ,885-11-87
+Julius,Caesar, , 
+Ee,Ff,hh,45
+A,B, ,24
+Eve,Gardener, ,32-44-2234
+Mark,P,mark@web.de,0176 97836521
+Peter,Weck,weck@web.de,+49 176 98674
+Peter,Lustig, ,+49 176 987-45
